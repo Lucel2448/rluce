@@ -11,8 +11,5 @@ Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.1.2
 Date: 20/03/2022
-<<<<<<< HEAD
 Imports: 
     dplyr
-=======
->>>>>>> f9cfd68ea1db5093c05c08343d6fc71bb2a94be7
